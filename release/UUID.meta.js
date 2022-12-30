@@ -3,7 +3,7 @@
 // @version      0.64.3
 // @description  Free open-source game cheat for Tanki Online.
 // @author       Zorro
-// @match        https://*.tankionline.com/*
+// @match        https://*.test-eu.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
     
 // @require      https://raw.githubusercontent.com/flyover/imgui-js/master/dist/imgui.umd.js
