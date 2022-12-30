@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Hi_Hi_Cyclone
+// @name         xZorro Shizoval
 // @version      0.64.3
 // @description  Free open-source game cheat for Tanki Online.
-// @author       sheezzmee
+// @author       Zorro
 // @match        https://*.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
     
