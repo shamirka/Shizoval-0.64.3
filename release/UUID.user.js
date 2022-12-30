@@ -9,8 +9,8 @@
 // @require      https://raw.githubusercontent.com/flyover/imgui-js/master/dist/imgui.umd.js
 // @require      https://raw.githubusercontent.com/flyover/imgui-js/master/dist/imgui_impl.umd.js
     
-// @downloadURL  https://raw.githubusercontent.com/UUID1606/UUID1606/main/release/TOHBA.user.js
-// @updateURL    https://raw.githubusercontent.com/UUID1606/UUID1606/main/release/TOHBA.meta.js
+// @downloadURL  https://raw.githubusercontent.com/UUID1606/UUID1606/main/release/UUID.user.js
+// @updateURL    https://raw.githubusercontent.com/UUID1606/UUID1606/main/release/UUID.meta.js
     
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
