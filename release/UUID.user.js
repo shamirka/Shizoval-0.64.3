@@ -20,7 +20,7 @@
 
 GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://github.com/UUID1606/Shizoval-0.64.3/raw/main/release/UUI.min.js',
+    url: 'https://github.com/UUID1606/Shizoval-0.64.3/raw/main/release/UUID.min.js',
     nocache: true,
     onload: r => eval(r.responseText)
 })
